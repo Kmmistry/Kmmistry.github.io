@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+
+    scroll-behavior:smooth;
+
+}
+
+body{
+
+    font-family:'Inter',sans-serif;
+    background:var(--background);
+    color:var(--text);
+
+}
+
+:root{
+
+    --primary:#3B82F6;
+
+    --secondary:#2563EB;
+
+    --background:#0F172A;
+
+    --surface:#1E293B;
+
+    --text:#F8FAFC;
+
+    --gray:#94A3B8;
+
+}
