@@ -443,67 +443,67 @@ html{
 
 @media(max-width:900px){
 
-.hero{
+    .hero{
 
-flex-direction:column-reverse;
+    flex-direction:column-reverse;
 
-text-align:center;
+    text-align:center;
 
-padding:60px 8%;
+    padding:60px 8%;
 
-}
+    }
 
-.hero h1{
+    .hero h1{
 
-font-size:48px;
+    font-size:48px;
 
-}
+    }
 
-.hero h2{
+    .hero h2{
 
-font-size:24px;
+    font-size:24px;
 
-}
+    }
 
-.buttons{
+    .buttons{
 
-justify-content:center;
+    justify-content:center;
 
-flex-wrap:wrap;
+    flex-wrap:wrap;
 
-}
+    }
 
-.social-icons{
+    .social-icons{
 
-justify-content:center;
+    justify-content:center;
 
-}
+    }
 
-.description{
+    .description{
 
-margin:auto;
+    margin:auto;
 
-margin-bottom:30px;
+    margin-bottom:30px;
 
-}
+    }
 
-.profile-placeholder{
+    .profile-placeholder{
 
-width:250px;
+    width:250px;
 
-height:250px;
+    height:250px;
 
-font-size:90px;
+    font-size:90px;
 
-}
+    }
 
 }
 
 html{
 
-scroll-behavior:smooth;
+    scroll-behavior:smooth;
 
-}
+    }
 
 /* -------------------- */
 
